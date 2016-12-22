@@ -3,8 +3,8 @@
 		"apps": [],
 		"details": [
 			{
-				"appID": "Z32KR6JNXM.com.archfront.health.Bookmarker",
-				"paths": [ "*"]
+				"appID": "Z32KR6JNXM.com.archfront.UniversalLinks",
+				"paths": [ "*/arduino.html", "*/raspberrypi.html", "*/beaglebone.html"]
 			}
 		]
 	}
