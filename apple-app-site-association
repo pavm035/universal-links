@@ -3,7 +3,7 @@
 		"apps": [],
 		"details": [
 			{
-				"appID": "Z32KR6JNXM.com.archfront.UniversalLinks",
+				"appID": "72MSM7PA27.com.connectimo.universallink",
 				"paths": [ "*/arduino.html", "*/raspberrypi.html", "*/beaglebone.html"]
 			}
 		]
